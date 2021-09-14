@@ -13,13 +13,13 @@ function NavBar(props) {
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       {/* <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="#">MusicTable</a>
+        
         <a class="nav-link" href="#">SeacrhBar</a>
       </div> */}
     </div>
   </div>
 </nav>
   )
-}
+}<a class="nav-link active" aria-current="page" href="#">MusicTable</a>
 export default NavBar;
 
